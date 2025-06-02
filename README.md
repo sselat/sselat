@@ -1,16 +1,3 @@
-# Hello world! 🤠
-
-### Pt-BR 🇧🇷
-O meu nome é Tales, sou brasileiro e tenho 28 anos. Sempre fui apaixonado por computadores e tecnologia, mas quando terminei o ensino médio, tomei algumas decisões erradas que me levaram por um caminho diferente.
-
-Em 2022, fui inspirado por YouTubers e programadores locais a retornar ao mundo da programação e recomecei meus estudos. Agora, sou um Desenvolvedor Júnior em um provedor de rede local, focando em linguagens de front-end, mas estou motivado para me tornar um desenvolvedor full-stack!
-
-### En-US 🇺🇸
-My name is Tales, I'm Brazilian, and I'm 28 years old. I've always been passionate about computers and technology, but when I finished high school, I made some wrong decisions that led me down a different path.
-
-In 2022, I was inspired by local YouTubers and programmers to return to the world of programming, and I restarted my studies.
-Now, I'm a Junior Developer at a local network provider, focusing on front-end languages, but I'm motivated to become a full-stack developer!
-
  <div>
   <a href="https://github.com/sselat">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sselat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
