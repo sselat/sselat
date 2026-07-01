@@ -23,6 +23,8 @@
 
 I'm a mid-level Fullstack Developer focused on building practical web solutions across frontend, backend, and product needs. I like working close to the problem: understanding the context, designing a clear path, and turning ideas into useful software.
 
+I currently work for a company that provides technology services to the State of Mato Grosso do Sul (Brazil), contributing to solutions used in public-sector contexts.
+
 My GitHub is where I practice, experiment, and keep improving. Here you will find web projects, front-end studies, API integrations, CRUD apps, framework experiments, and small applications built as part of my learning process.
 
 ## What I'm focused on
@@ -51,9 +53,12 @@ My GitHub is where I practice, experiment, and keep improving. Here you will fin
 ## GitHub in numbers
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sselat&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sselat&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://img.shields.io/badge/Public%20repos-32-00C2FF?style=for-the-badge&logo=github&logoColor=white" alt="Public repositories" />
+  <img src="https://img.shields.io/badge/Main%20stack-JavaScript%20%7C%20React%20%7C%20Vue%20%7C%20Java-7C3AED?style=for-the-badge&logo=javascript&logoColor=white" alt="Main stack" />
+  <img src="https://img.shields.io/badge/Focus-Fullstack%20Web%20Development-00A67E?style=for-the-badge&logo=codeforces&logoColor=white" alt="Focus" />
 </div>
+
+<br />
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sselat&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
@@ -65,6 +70,8 @@ My GitHub is where I practice, experiment, and keep improving. Here you will fin
 ## Olá, eu sou o Tales
 
 Sou desenvolvedor fullstack pleno, com foco em criar soluções web práticas conectando frontend, backend e necessidades de produto. Gosto de atuar perto do problema: entender o contexto, desenhar um caminho claro e transformar ideias em software útil.
+
+Atualmente trabalho em uma empresa que presta serviços de tecnologia para o Estado de Mato Grosso do Sul (Brasil), contribuindo com soluções usadas em contextos do setor público.
 
 Meu GitHub é meu espaço de prática, experimentação e evolução. Por aqui você encontra projetos web, estudos de front-end, integrações com APIs, CRUDs, experimentos com frameworks e pequenas aplicações criadas para aprender fazendo.
 
