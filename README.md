@@ -66,8 +66,8 @@ My GitHub is where I practice, experiment, and keep improving. Here you will fin
 
 <details>
   <summary>
-    <strong>🇧🇷 Ler em português</strong>
-    <img src="https://img.shields.io/badge/clique%20para%20expandir-00C2FF?style=flat-square" alt="Clique para expandir" />
+    <img src="https://flagcdn.com/br.svg" width="18" alt="Brazil flag" />
+<strong>Ler em português</strong>
   </summary>
 
 ## E aí! Eu sou o Tales!
