@@ -65,9 +65,12 @@ My GitHub is where I practice, experiment, and keep improving. Here you will fin
 </div>
 
 <details>
-  <summary><strong>Versão em português</strong></summary>
+  <summary>
+    <strong>🇧🇷 Ler em português</strong>
+    <img src="https://img.shields.io/badge/clique%20para%20expandir-00C2FF?style=flat-square" alt="Clique para expandir" />
+  </summary>
 
-## Olá, eu sou o Tales
+## E aí! Eu sou o Tales!
 
 Sou desenvolvedor fullstack pleno, com foco em criar soluções web práticas conectando frontend, backend e necessidades de produto. Gosto de atuar perto do problema: entender o contexto, desenhar um caminho claro e transformar ideias em software útil.
 
